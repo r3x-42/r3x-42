@@ -46,10 +46,10 @@ r3x@🦖​:~/Lenguages$ ls
 ```console
 r3x@🦖​:~/Skills$ ls -la
 ```  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3x-42&theme=tokyonight)
-
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=r3x-42&show_icons=true&title_color=06FF00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![r3x's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r3x-42&layout=compact&theme=radical&hide=asp.net&langs_count=10)
 
 ***********************************
 ```console
