@@ -17,7 +17,8 @@ r3x@🦖​:~$ cat AboutMe
 - 🤖 **Autodidacta:** *"El Autoaprendizaje y la proactividad, son el nucleo de cualquier metodología"*
 - 📘 **The Hitchhiker's Guide to the Galaxy**
 - 🎬 **TRON**
-- 🧙‍♂️  **Frase Favorita** "La tecnología es accesible para todos, no necesitas permiso de nadie" by: Hector Bliss
+- 🧙‍♂️  **Frase Favorita** "La tecnología es accesible para todos, no necesitas permiso de nadie" 
+> Hector Bliss
 
 ```console
 r3x@🦖​:~/Lenguages$ ls
